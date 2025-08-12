@@ -1,6 +1,5 @@
 package Singly_linked_list;
 
-import java.sql.SQLOutput;
 
 public class SLList {
     Node head = null;
