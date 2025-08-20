@@ -40,4 +40,5 @@ public class Queue {
             System.out.print(queue[i] + " ");
         }
     }
+
 }
